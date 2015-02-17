@@ -1,6 +1,6 @@
 {
   "name": "MeowChatBox",
-  "version": "v2.0.0",
+  "version": "v2.5.0",
   "description": "A WebRTC browser-to-browser chat application.",
   "license": "MIT License",
   "repository": "ashumeow/MeowChatBox",
