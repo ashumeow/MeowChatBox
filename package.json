@@ -1,6 +1,6 @@
 {
-  "name": "MeowChatBox",
-  "version": "v2.0.0",
+  "name": "MeowChatBox-for-serviceworker",
+  "version": "v2.0.1",
   "description": "A WebRTC browser-to-browser chat application.",
   "license": "MIT License",
   "repository": "ashumeow/MeowChatBox",
@@ -12,6 +12,9 @@
     "url": "http://windowsgeekpro.in"
   },
   "files": [
-    "chat.js"
+    "chat.js",
+    "sw.js",
+    "serviceworker-cache-polyfill.js",
+    "logging.js"
   ]
 }
