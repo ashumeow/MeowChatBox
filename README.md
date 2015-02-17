@@ -15,7 +15,7 @@ You can also build your own... <br>
 ```
 $git clone https://github.com/ashumeow/MeowChatBox.git
 ```
-or <br>
+(or) <br> <br>
 2. Directly download from master -- <a href="https://github.com/ashumeow/MeowChatBox/archive/master.zip">click here</a> <br>
 <br>
 For running the file in static mode/offline, it works only in Firefox:- <br>
