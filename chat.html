@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width">
 	<link rel="stylesheet" href="chat.css" as="css">
 	<title>Simple Meow Chat Engine</title>
 </head>
@@ -23,5 +24,16 @@
 			</div>
 	</div>
 	<script type="text/javascript" src="chat.js"></script>
+	<!-- For Chrome -->
+	<script type="text/javascript" src="logging.js"></script>
+	<script>
+      // Let's register our serviceworker
+      navigator.serviceWorker.register('sw.js', {
+        // The scope cannot be parent to the script url
+        scope: './'
+      });
+    </script>
+	<script type="text/javascript" src="serviceworker-cache-polyfill.js"></script>
+	<script type="text/javascript" src="sw.js"></script>
 </body>
 </html>
