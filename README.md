@@ -2,8 +2,9 @@
 [travis-url]: https://travis-ci.org/ashumeow/MeowChatBox
 [travis-image]: https://travis-ci.org/ashumeow/MeowChatBox.svg?branch=master
 <b>MeowChatBox</b> is a WebRTC browser-to-browser chat application. <br>
-It is currently 100% working  both Chrome as well as Firefox in online mode. It works in both desktop as well as in mobile (it's fast in Android). I haven't checked with Opera. <br>
-But, it never works in IE. <br>
+It is currently 100% working in  both Chrome as well as Firefox in online mode. It works in both desktop as well as in mobile (it's fast in Android). I haven't checked with Opera. <br>
+But, it never works in IE. I guess that it doesn't work in Safari too. <br>
+Latest:- Included <a href="https://github.com/paulirish/memory-stats.js">stats</a> that works only in chrome. <br>
 <br>
 For Demo:- <a href="http://www.windowsgeekpro.in/MeowChatBox/chat.html">CLICK HERE</a> <br>
 <br>
