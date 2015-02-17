@@ -12,6 +12,7 @@
     "url": "http://windowsgeekpro.in"
   },
   "files": [
-    "chat.js"
+    "chat.js",
+    "stats.js"
   ]
 }
