@@ -1,0 +1,17 @@
+{
+  "name": "MeowChatBox",
+  "version": "v2.0.0",
+  "description": "A WebRTC browser-to-browser chat application.",
+  "license": "MIT License",
+  "repository": "ashumeow/MeowChatBox",
+  "author": {
+    "name": "Aswini S",
+    "github": "ashumeow",
+    "twitter": "@ashumeow",
+    "email": "ashumeow@live.com",
+    "url": "http://windowsgeekpro.in"
+  },
+  "files": [
+    "chat.js"
+  ]
+}
